@@ -1,4 +1,4 @@
-# 🚜 FarmFeeding
+#  FarmFeeding
 
 Plataforma web para gerenciamento de grupos de animais e controle de produtos rurais.
 
