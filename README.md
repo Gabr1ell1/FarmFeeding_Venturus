@@ -10,9 +10,9 @@ Projeto desenvolvido em equipe como parte do Projeto Venturus.
 
 ### Integrantes
 
-- 👩‍💻 Ester Rodrigues Soares  
+[link/https://github.com/EsterRS7] - 👩‍💻 Ester Rodrigues Soares  
 - 👩‍💻 Gabrielly Nascimento Bento  
-- 👨‍💻 Gustavo Henrique R. Silva  
+[link/https://github.com/Guzhie] - 👨‍💻 Gustavo Henrique R. Silva  
 - 👨‍💻 Jhonatta Alves Nascimento  
 
 ---
