@@ -9,11 +9,38 @@ Plataforma web para gerenciamento de grupos de animais e controle de produtos ru
 Projeto desenvolvido em equipe como parte do Projeto Venturus.
 
 ### Integrantes
-
-[link/https://github.com/EsterRS7] - 👩‍💻 Ester Rodrigues Soares  
-- 👩‍💻 Gabrielly Nascimento Bento  
-[link/https://github.com/Guzhie] - 👨‍💻 Gustavo Henrique R. Silva  
-- 👨‍💻 Jhonatta Alves Nascimento  
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/EsterRS7.png" width="100px;" style="border-radius:50%;" alt="Ester"/><br />
+      <strong>Ester Rodrigues Soares</strong><br />
+      <a href="https://github.com/EsterRS7">
+        <img src="https://img.shields.io/badge/GitHub-Perfil-181717?logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/GabriellyNascimento.png" width="100px;" style="border-radius:50%;" alt="Gabrielly"/><br />
+      <strong>Gabrielly Nascimento Bento</strong><br />
+      <a href="https://github.com/GabriellyNascimento">
+        <img src="https://img.shields.io/badge/GitHub-Perfil-181717?logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Guzhie.png" width="100px;" style="border-radius:50%;" alt="Gustavo"/><br />
+      <strong>Gustavo Henrique R. Silva</strong><br />
+      <a href="https://github.com/Guzhie">
+        <img src="https://img.shields.io/badge/GitHub-Perfil-181717?logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/JhonattaUsername.png" width="100px;" style="border-radius:50%;" alt="Jhonatta"/><br />
+      <strong>Jhonatta Alves Nascimento</strong><br />
+      <a href="https://github.com/JhonattaUsername">
+        <img src="https://img.shields.io/badge/GitHub-Perfil-181717?logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
