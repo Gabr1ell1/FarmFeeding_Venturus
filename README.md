@@ -35,7 +35,7 @@ Projeto desenvolvido em equipe como parte do Projeto Venturus.
     <td align="center">
       <img src="https://github.com/JhonattaUsername.png" width="100px;" style="border-radius:50%;" alt="Jhonatta"/><br />
       <strong>Jhonatta Alves Nascimento</strong><br />
-      <a href="https://github.com/https://github.com/JHOW-JHOW">
+      <a href="https://github.com/JHOW-JHOW">
         <img src="https://img.shields.io/badge/GitHub-Perfil-181717?logo=github&logoColor=white"/>
       </a>
     </td>
