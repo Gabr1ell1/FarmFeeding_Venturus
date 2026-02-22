@@ -19,7 +19,7 @@ Projeto desenvolvido em equipe como parte do Projeto Venturus.
       </a>
     </td>
     <td align="center">
-      <img src="https://github.com/GabriellyNascimento.png" width="100px;" style="border-radius:50%;" alt="Gabrielly"/><br />
+      <img src="https://github.com/Gabr1ell1.png" width="100px;" style="border-radius:50%;" alt="Gabrielly"/><br />
       <strong>Gabrielly Nascimento Bento</strong><br />
       <a href="https://github.com/Gabr1ell1">
         <img src="https://img.shields.io/badge/GitHub-Perfil-181717?logo=github&logoColor=white"/>
@@ -33,7 +33,7 @@ Projeto desenvolvido em equipe como parte do Projeto Venturus.
       </a>
     </td>
     <td align="center">
-      <img src="https://github.com/JhonattaUsername.png" width="100px;" style="border-radius:50%;" alt="Jhonatta"/><br />
+      <img src="https://github.com/JHOW-JHOW.png" width="100px;" style="border-radius:50%;" alt="Jhonatta"/><br />
       <strong>Jhonatta Alves Nascimento</strong><br />
       <a href="https://github.com/JHOW-JHOW">
         <img src="https://img.shields.io/badge/GitHub-Perfil-181717?logo=github&logoColor=white"/>
