@@ -3,7 +3,7 @@ Plataforma web para gerenciamento de grupos de animais e controle de produtos ru
 
 ---
 
-## 👥 Equipe do Projeto
+# 👥 Equipe do Projeto
 
 Projeto desenvolvido em equipe como parte do Projeto Venturus.
 
